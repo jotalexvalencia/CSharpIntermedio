@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Interfaces", "02_Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03IEnumerableParte01", "03IEnumerableParte01\03IEnumerableParte01.csproj", "{B319B5F8-999D-4A0E-A821-A1720126D459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04IEnumerableparte02", "04IEnumerableparte02\04IEnumerableparte02.csproj", "{277A328C-5DF0-49A3-971B-7AB4B241A937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B319B5F8-999D-4A0E-A821-A1720126D459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B319B5F8-999D-4A0E-A821-A1720126D459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B319B5F8-999D-4A0E-A821-A1720126D459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
