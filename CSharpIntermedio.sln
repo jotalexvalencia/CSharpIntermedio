@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03IEnumerableParte01", "03I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04IEnumerableparte02", "04IEnumerableparte02\04IEnumerableparte02.csproj", "{277A328C-5DF0-49A3-971B-7AB4B241A937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ICloneable", "05_ICloneable\05_ICloneable.csproj", "{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{277A328C-5DF0-49A3-971B-7AB4B241A937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
