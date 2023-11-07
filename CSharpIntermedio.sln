@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04IEnumerableparte02", "04I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ICloneable", "05_ICloneable\05_ICloneable.csproj", "{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_IComparable", "06_IComparable\06_IComparable.csproj", "{ED03E8FD-5951-4E78-97BE-588AA2F69E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01BBE6FD-2C77-4F2D-9B94-E2E7A75996CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED03E8FD-5951-4E78-97BE-588AA2F69E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED03E8FD-5951-4E78-97BE-588AA2F69E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED03E8FD-5951-4E78-97BE-588AA2F69E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED03E8FD-5951-4E78-97BE-588AA2F69E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
