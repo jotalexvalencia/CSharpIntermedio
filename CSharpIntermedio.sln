@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Indexer", "12_Indexer\12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_SobrecargaBinarios", "13_SobrecargaBinarios\13_SobrecargaBinarios.csproj", "{5CCD999D-18C2-4ABE-A4A4-DB5282ECA210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_SobrecargaBinarios2", "14_SobrecargaBinarios2\14_SobrecargaBinarios2.csproj", "{F2EEE1A0-3E5B-4419-B0F0-375B42AFC4E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{5CCD999D-18C2-4ABE-A4A4-DB5282ECA210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCD999D-18C2-4ABE-A4A4-DB5282ECA210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCD999D-18C2-4ABE-A4A4-DB5282ECA210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EEE1A0-3E5B-4419-B0F0-375B42AFC4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EEE1A0-3E5B-4419-B0F0-375B42AFC4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EEE1A0-3E5B-4419-B0F0-375B42AFC4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EEE1A0-3E5B-4419-B0F0-375B42AFC4E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
