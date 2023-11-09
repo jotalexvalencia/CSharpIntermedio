@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_SobrecargaUnuarios", "15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_SobrecargaComparacion", "16_SobrecargaComparacion\16_SobrecargaComparacion.csproj", "{AB2F669A-4C8E-45A9-80A3-5A509637235B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_SerializacionBinaria", "17_SerializacionBinaria\17_SerializacionBinaria.csproj", "{513224DF-E294-4FBA-BA78-9D43946BF92E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{AB2F669A-4C8E-45A9-80A3-5A509637235B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB2F669A-4C8E-45A9-80A3-5A509637235B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB2F669A-4C8E-45A9-80A3-5A509637235B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513224DF-E294-4FBA-BA78-9D43946BF92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513224DF-E294-4FBA-BA78-9D43946BF92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513224DF-E294-4FBA-BA78-9D43946BF92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513224DF-E294-4FBA-BA78-9D43946BF92E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
