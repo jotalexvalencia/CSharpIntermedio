@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_SerializacionBinaria", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Serializacion_SOAP_XML", "18_Serializacion_SOAP_XML\18_Serializacion_SOAP_XML.csproj", "{690D7CD3-865F-4B8A-8741-C6902A73F3C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-serializacion-con-composicion", "19-serializacion-con-composicion\19-serializacion-con-composicion.csproj", "{CBECDE03-A05D-4004-A338-75A2F9FDADE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-serializacion-con-composicion-xml", "19-serializacion-con-composicion-xml\19-serializacion-con-composicion-xml.csproj", "{151CC553-2382-42F0-B9E8-E31CB89EE698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{690D7CD3-865F-4B8A-8741-C6902A73F3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{690D7CD3-865F-4B8A-8741-C6902A73F3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{690D7CD3-865F-4B8A-8741-C6902A73F3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBECDE03-A05D-4004-A338-75A2F9FDADE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBECDE03-A05D-4004-A338-75A2F9FDADE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBECDE03-A05D-4004-A338-75A2F9FDADE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBECDE03-A05D-4004-A338-75A2F9FDADE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151CC553-2382-42F0-B9E8-E31CB89EE698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151CC553-2382-42F0-B9E8-E31CB89EE698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151CC553-2382-42F0-B9E8-E31CB89EE698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151CC553-2382-42F0-B9E8-E31CB89EE698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
