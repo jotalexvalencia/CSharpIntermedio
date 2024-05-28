@@ -51,11 +51,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-biblioteca", "23-bibliot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematica", "Matematica\Matematica.csproj", "{0EB9D26E-D7AB-4FAC-AD9A-8077DC46E591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-biblioteca2", "23-biblioteca2\23-biblioteca2.csproj", "{08B835F7-DEB7-4AE1-A2E9-CD034E4A54E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23-biblioteca2", "23-biblioteca2\23-biblioteca2.csproj", "{08B835F7-DEB7-4AE1-A2E9-CD034E4A54E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiClase", "MiClase\MiClase.csproj", "{B0A174AB-EFE5-43FF-8CA8-4C4AF6FD674E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-RegularExpressions-NetCore", "24-RegularExpressions-NetCore\24-RegularExpressions-NetCore.csproj", "{2F4BA864-42AB-48A3-AF07-AB5E7279490C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24-RegularExpressions-NetCore", "24-RegularExpressions-NetCore\24-RegularExpressions-NetCore.csproj", "{2F4BA864-42AB-48A3-AF07-AB5E7279490C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
